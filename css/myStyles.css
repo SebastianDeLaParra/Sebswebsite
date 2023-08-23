@@ -3,23 +3,23 @@ body{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    width: 1000px;
    margin: auto;
-   background-color: #e9d7b0;
+   background-color: #ffffff;
 }
 h1 {
-   color: #000000 ;
+   color: #ffffff ;
    margin-left: 80px;
    text-align: center;
  
 }
 h2 {
 
-   color: #000000 ;
+   color: #ff7b00 ;
    margin-left: 80px;
    text-align: center;
  
 }
 nav{
-   background-color: #cc5b10 ;
+   background-color: #ff6600 ;
    height: 40px;
    padding-bottom: 20px;
 }
@@ -32,13 +32,13 @@ nav li {
 }
 nav a {
    text-decoration: none;
-   color: rgb(255, 136, 0);
+   color: rgb(255, 255, 255);
    font-size: 1.2em;
    font-weight: bold;
    margin-right: 20px;
 }
 nav a:hover{
-   color: black;
+   color: rgb(255, 255, 255);
 }
 section {
    float: left;
@@ -49,7 +49,7 @@ section {
 
 footer {
    clear: both;
-   background-color: #dd6f08;
+   background-color: #ff7b00;
    color: white;
    height: 30px;
    text-align: center;
